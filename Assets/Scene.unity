@@ -320,7 +320,19 @@ MonoBehaviour:
     m_RotationOrder: 4
   OnTargetFound:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 892694085}
+        m_TargetAssemblyTypeName: TargetFollower, Assembly-CSharp
+        m_MethodName: OnTargetFound
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 796063435}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
@@ -553,7 +565,19 @@ MonoBehaviour:
     m_RotationOrder: 4
   OnTargetFound:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 892694085}
+        m_TargetAssemblyTypeName: TargetFollower, Assembly-CSharp
+        m_MethodName: OnTargetFound
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 1800454909}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
@@ -677,7 +701,19 @@ MonoBehaviour:
     m_RotationOrder: 4
   OnTargetFound:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 892694085}
+        m_TargetAssemblyTypeName: TargetFollower, Assembly-CSharp
+        m_MethodName: OnTargetFound
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 1863399527}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
@@ -801,7 +837,19 @@ MonoBehaviour:
     m_RotationOrder: 4
   OnTargetFound:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 892694085}
+        m_TargetAssemblyTypeName: TargetFollower, Assembly-CSharp
+        m_MethodName: OnTargetFound
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 2000602792}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []

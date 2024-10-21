@@ -35,7 +35,7 @@ public class TargetFollower : MonoBehaviour
 
     public void Move()
     {
-        if(moving) return;
+        if(moving || currentTarget is null) return;
         StartCoroutine(MoveToTarget());
     }
 
